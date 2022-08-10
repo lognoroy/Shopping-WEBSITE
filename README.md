@@ -1,18 +1,12 @@
 # Shopping-WEBSITE
 
- June 2022
- 
-• An E-commerce (online shopping) website, where in home page user can see
-various items with the images and the product details. User can choose
-products from here.
+June 2022
 
-• Whenever someone clicks on the Shopping cart icon, Cart page will open, from
-where, One can see the total bill.Here user can also remove a product from cart
-page or can also go back to the previous page for choosing more element by
-clicking the title in the navigation bar.
+• An E-commerce (online shopping) website, where on the home page users can see various items with images and product details. Users can choose products from here.
 
-• User can also increase or decrease the no of products,this feature is provided in
-the both pages.
+• Whenever someone clicks on the Shopping cart icon, the Cart page will open, from where One can see the total bill. Here users can also remove a product from the cart page or can also go back to the previous page for choosing more elements by clicking the title in the navigation bar.
+
+• Users can also increase or decrease the no of products, this feature is provided on both pages.
 
 Live: https://lognoroy.github.io/Shopping-WEBSITE/
 
